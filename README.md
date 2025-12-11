@@ -1,4 +1,12 @@
-![]()
+![](1.png)
+![](2.png)
+![](3.png)
+![](4.png)
+![](5.png)
+![](6.png)
+![](7.jpeg)
+![](8.jpg)
+![](9.jpg)
 # 🎭 Simpsons Character Classifier
 
 > A deep learning and Computer Vision project that identifies Simpsons characters from images using Convolutional Neural Networks (CNN)
@@ -1348,4 +1356,5 @@ If you use this project in your research or work, please cite:
 **⭐ Star this repo if you find it helpful!**
 
 >>>>>>> c0f8356393cf0dd42b306eb133e2f07070df0306
+
 
